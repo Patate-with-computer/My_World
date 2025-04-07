@@ -43,7 +43,7 @@ make help
 
 - *You can compile this binary using:*
 
-```
+```bash
 ./my_world
 # --> to open an empty map that you can customize.
 
