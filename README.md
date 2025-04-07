@@ -12,6 +12,8 @@ The languages used are **C** and **CSFML**.
 
 We've used **OpenGL Shading Language (GLSL)**, for the shaders.
 
+![example_video](https://github.com/Patate-with-computer/My_World/blob/main/readme_ressources/demo_video.mp4)
+
 ## Epitech Warning
 
 **This is a warning to all epitech students:** 
