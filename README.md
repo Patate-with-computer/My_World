@@ -96,9 +96,8 @@ make help
 
 ## Authors
 
-| [<img src="https://avatars.githubusercontent.com/u/146742953?v=4?size=85" width=85><br><sub>Tanguy Folliot</sub>](https://github.com/jf1Phillips)
-| [<img src="https://avatars.githubusercontent.com/u/181121247?v=4?size=85" width=85><br><sub>Quentin Dutournier-Ottenin</sub>](https://github.com/Patate-with-computer) |
-|:--:|:--:|
+| [<img src="https://avatars.githubusercontent.com/u/146742953?v=4?size=85" width=85><br><sub>Tanguy Folliot</sub>](https://github.com/jf1Phillips) | [<img src="https://avatars.githubusercontent.com/u/181121247?v=4?size=85" width=85><br><sub>Quentin Dutournier-Ottenin</sub>](https://github.com/Patate-with-computer) |
+| :---: | :---: |
 
 
 - 	Tanguy Folliot			([Github](https://github.com/jf1Phillips))
