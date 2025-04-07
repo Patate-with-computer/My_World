@@ -20,10 +20,10 @@ We've used **OpenGL Shading Language (GLSL)**, for the shaders.
 
 ## Prerequisites
 
-- _Make_	([Librairie Make](https://www.gnu.org/software/make/manual/make.html))
-- _GCC_ 	([Librairie gcc](https://devdocs.io/gcc~14/))
-- _LibC_	([Librairie C](https://www.gnu.org/software/libc/))
-- _LibCsfml_	([Librairie CSFML](https://csfml.1l.is/index.html))
+- _Make_	([Make Library](https://www.gnu.org/software/make/manual/make.html))
+- _GCC_ 	([gcc Library](https://devdocs.io/gcc~14/))
+- _LibC_	([C Library](https://www.gnu.org/software/libc/))
+- _LibCsfml_	([CSFML Library](https://csfml.1l.is/index.html))
 
 ## Compilation
 
